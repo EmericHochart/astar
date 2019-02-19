@@ -25,5 +25,5 @@ ___
 * [qiao.github.io - English](https://qiao.github.io/PathFinding.js/visual/)
 ___
 ## TODO
-..* Diagonals
-..* Make the application independent
+* Diagonals
+* Make the application independent
